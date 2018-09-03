@@ -5,10 +5,10 @@ O desafio foi alinhado ao desenvolvimento de uma (mini) biblioteca para treino d
 
 ### Exemplo
 
-|   Entrada                       |      Saída                                         |
-|:-------------------------------:|:--------------------------------------------------:|
+|   Entrada                       |      Saída                                                     |
+|:-------------------------------:|:--------------------------------------------------------------:|
 |![desafio1](exemplo/desafio1.bmp)|  qu**q**ntos neuron**j**os existem **q**ntre um pensar e outro |
-|![desafio1](exemplo/desafio2.bmp)|      0123456789 **2**918273654                         |
+|![desafio1](exemplo/desafio2.bmp)|      0123456789 **2**918273654                                 |
 
 
 _Quase_. Redes convolucionais atingem maior taxa de acerto, mas como essa foi minha primeira abordagem ao tema, optei por estudar e desenvolver um sistema mais simples, de rede fortemente conectada, que é basilar para as redes convolucionais.
