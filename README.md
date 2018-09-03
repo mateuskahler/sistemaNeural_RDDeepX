@@ -13,7 +13,7 @@ O desafio foi alinhado ao desenvolvimento de uma (mini) biblioteca para treino d
 
 _Quase_. Redes convolucionais atingem maior taxa de acerto, mas como essa foi minha primeira abordagem ao tema, optei por estudar e desenvolver um sistema mais simples, de rede fortemente conectada, que é basilar para as redes convolucionais.
 
-As redes treinadas e programas exemplo estão disponíveis na pasta [exemplo](/exemplo).
+As redes treinadas e programa exemplo estão disponíveis na pasta [exemplo](/exemplo).
 
 ### Relatórios
 
